@@ -1,58 +1,84 @@
 {
-    "name": "松川怒りの髪衣装抽出ツール",
-    "id": "com.blueberryeye.hair-costume-extractor.vpm",
-    "url": "https://raw.githubusercontent.com/Torateihen/HairCostumeExtractor/main/index.json",
-    "author": "ブルーベリーアイ松川",
-    "packages": {
-        "com.blueberryeye.hair-costume-extractor": {
-            "versions": {
-                "1.1.0": {
-                    "name": "com.blueberryeye.hair-costume-extractor",
-                    "displayName": "松川怒りの髪衣装抽出ツール",
-                    "version": "1.1.0",
-                    "unity": "2022.3",
-                    "description": "アバターから残したい髪と衣装だけを選び、それ以外のメッシュと、そのメッシュが使っていないボーンを自動で削除するエディタ拡張。他のアバターへの移植用の素材を取り出すためのものです。",
-                    "author": {
-                        "name": "ブルーベリーアイ松川",
-                        "url": "https://bbeyemtkw.booth.pm/"
-                    },
-                    "keywords": [
-                        "vrchat",
-                        "avatar",
-                        "hair",
-                        "costume",
-                        "bone"
-                    ],
-                    "legacyFolders": {
-                        "Assets\\HairCostumeExtractor": ""
-                    },
-                    "url": "https://github.com/Torateihen/HairCostumeExtractor/releases/download/1.1.0/com.blueberryeye.hair-costume-extractor-1.1.0.zip",
-                    "zipSHA256": "73444d84a7a2b21c8ccf23d9b2110c77960344c8fa860f9de5e367dac7f62900"
-                },
-                "1.4.7": {
-                    "name": "com.blueberryeye.hair-costume-extractor",
-                    "displayName": "松川怒りの髪衣装抽出ツール",
-                    "version": "1.4.7",
-                    "unity": "2022.3",
-                    "description": "アバターから残したい髪と衣装だけを選び、それ以外のメッシュと、そのメッシュが使っていないボーンを自動で削除するエディタ拡張。他のアバターへの移植用の素材を取り出すためのものです。",
-                    "author": {
-                        "name": "ブルーベリーアイ松川",
-                        "url": "https://bbeyemtkw.booth.pm/"
-                    },
-                    "keywords": [
-                        "vrchat",
-                        "avatar",
-                        "hair",
-                        "costume",
-                        "bone"
-                    ],
-                    "legacyFolders": {
-                        "Assets\\HairCostumeExtractor": ""
-                    },
-                    "url": "https://github.com/Torateihen/HairCostumeExtractor/releases/download/1.4.7/com.blueberryeye.hair-costume-extractor-1.4.7.zip",
-                    "zipSHA256": "ccc598a82fa5ed950e71d145220c96445a7d98f050c67d81334419fd97f9fb87"
-                }
-            }
+  "name": "松川怒りの髪衣装抽出ツール",
+  "id": "com.blueberryeye.hair-costume-extractor.vpm",
+  "url": "https://raw.githubusercontent.com/Torateihen/HairCostumeExtractor/main/index.json",
+  "author": "ブルーベリーアイ松川",
+  "packages": {
+    "com.blueberryeye.hair-costume-extractor": {
+      "versions": {
+        "1.1.0": {
+          "name": "com.blueberryeye.hair-costume-extractor",
+          "displayName": "松川怒りの髪衣装抽出ツール",
+          "version": "1.1.0",
+          "unity": "2022.3",
+          "description": "アバターから残したい髪と衣装だけを選び、それ以外のメッシュと、そのメッシュが使っていないボーンを自動で削除するエディタ拡張。他のアバターへの移植用の素材を取り出すためのものです。",
+          "author": {
+            "name": "ブルーベリーアイ松川",
+            "url": "https://bbeyemtkw.booth.pm/"
+          },
+          "keywords": [
+            "vrchat",
+            "avatar",
+            "hair",
+            "costume",
+            "bone"
+          ],
+          "legacyFolders": {
+            "Assets\\HairCostumeExtractor": ""
+          },
+          "url": "https://github.com/Torateihen/HairCostumeExtractor/releases/download/1.1.0/com.blueberryeye.hair-costume-extractor-1.1.0.zip",
+          "zipSHA256": "73444d84a7a2b21c8ccf23d9b2110c77960344c8fa860f9de5e367dac7f62900"
+        },
+        "1.4.7": {
+          "name": "com.blueberryeye.hair-costume-extractor",
+          "displayName": "松川怒りの髪衣装抽出ツール",
+          "version": "1.4.7",
+          "unity": "2022.3",
+          "description": "アバターから残したい髪と衣装だけを選び、それ以外のメッシュと、そのメッシュが使っていないボーンを自動で削除するエディタ拡張。他のアバターへの移植用の素材を取り出すためのものです。",
+          "author": {
+            "name": "ブルーベリーアイ松川",
+            "url": "https://bbeyemtkw.booth.pm/"
+          },
+          "keywords": [
+            "vrchat",
+            "avatar",
+            "hair",
+            "costume",
+            "bone"
+          ],
+          "legacyFolders": {
+            "Assets\\HairCostumeExtractor": ""
+          },
+          "url": "https://github.com/Torateihen/HairCostumeExtractor/releases/download/1.4.7/com.blueberryeye.hair-costume-extractor-1.4.7.zip",
+          "zipSHA256": "ccc598a82fa5ed950e71d145220c96445a7d98f050c67d81334419fd97f9fb87"
+        },
+        "1.4.10": {
+          "name": "com.blueberryeye.hair-costume-extractor",
+          "displayName": "松川怒りの髪衣装抽出ツール",
+          "version": "1.4.10",
+          "unity": "2022.3",
+          "description": "アバターから残したい髪と衣装だけを選び、それ以外のメッシュと、そのメッシュが使っていないボーンを自動で削除するエディタ拡張。他のアバターへの移植用の素材を取り出すためのものです。",
+          "author": {
+            "name": "ブルーベリーアイ松川",
+            "url": "https://bbeyemtkw.booth.pm/"
+          },
+          "keywords": [
+            "vrchat",
+            "avatar",
+            "hair",
+            "costume",
+            "bone"
+          ],
+          "legacyFolders": {
+            "Assets\\HairCostumeExtractor\\Editor": ""
+          },
+          "legacyFiles": {
+            "Assets\\HairCostumeExtractor\\package.json": ""
+          },
+          "url": "https://github.com/Torateihen/HairCostumeExtractor/releases/download/1.4.10/com.blueberryeye.hair-costume-extractor-1.4.10.zip",
+          "zipSHA256": "13a91315c94a8f24aacc3ff883a72c16589f477eb0a2527b54f582b41e6a601b"
         }
+      }
     }
+  }
 }
